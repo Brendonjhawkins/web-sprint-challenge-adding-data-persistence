@@ -6,3 +6,4 @@ exports.seed = function(knex) {
       {project_name: 'Apex'},
       {project_name: 'Phoenix'})
   };
+
